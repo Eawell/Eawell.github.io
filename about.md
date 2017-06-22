@@ -3,13 +3,13 @@ layout: page
 title: About
 permalink: /about/
 ---
-I am Jack, and this blog is about my I.T lessons in year 8
+I'm Eliot and this is my blog.
 
 ### More Information
 
-We program Fuze Boxes which use B.A.S.I.C. I hope you like this blog as much as I do!
+We do code academy.
 
 ### Contact me 
 
-[jack.morgan2@hcalloners.org](mailto:jack.morgan2@challoners.org) 
+[eliot.southwell@challoners.org](mailto:eliot.southwell@challoners.org) 
 
