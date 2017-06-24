@@ -6,9 +6,9 @@ permalink: /Code-Academy/
 source-id: 1uQZechdWqePHLfMd65xJ1SeRGqei-8QtlAcWrWXek1M
 published: true
 ---
-<table>
+<table class="table1">
   <tr>
-    <td></td>
+  <th>Title</th>
     <td>Code Academy</td>
     <td>Date</td>
     <td>25.04.17</td>
@@ -16,7 +16,7 @@ published: true
 </table>
 
 
-<table>
+<table class="table1">
   <tr>
     <td>Starting point:</td>
     <td>Beginning of Python</td>
@@ -33,7 +33,7 @@ published: true
 </table>
 
 
-<table>
+<table class="table1">
   <tr>
     <td>Lesson Review</td>
   </tr>
