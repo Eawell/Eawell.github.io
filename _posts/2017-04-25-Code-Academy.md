@@ -41,7 +41,17 @@ published: true
     <th>How did I learn? What strategies were effective? </th>
   </tr>
   <tr>
-    <td>I learnt by following the instructions and doing what they wanted me to do. The best strategy for me was just trying what you think will work and if it doesn't work, just change what looks odd.</td>
+    <td>I learnt by following the instructions and doing what they wanted me to do. The best strategy for me was just trying what you think will work and if it doesn't work, just change what looks odd.
+    
+    
+    
+    
+    
+    
+    
+    
+    <img src="https://github.com/eawell/eawell.github.io/blob/master/images/Screen_Shot_2017-05-02_at_15.00.41_(1).png?raw=true">
+    </td>
   </tr>
   <tr>
     <th>What limited my learning? Which habits do I need to work on? </th>
