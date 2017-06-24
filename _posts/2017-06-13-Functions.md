@@ -6,51 +6,51 @@ permalink: /functions/
 source-id: 1HQvGLnHA97F5zpPlXQb4BiTtgTmWlubl8f7kUotZKt8
 published: true
 ---
-<table>
+<table class="table1">
   <tr>
-    <td></td>
+    <th>Title</th>
     <td>Functions</td>
-    <td>Date</td>
+    <th>Date</th>
     <td>13/06/17</td>
   </tr>
 </table>
 
 
-<table>
+<table class="table1">
   <tr>
-    <td>Starting point:</td>
+    <th>Starting point:</th>
     <td>Beginning of functions</td>
   </tr>
   <tr>
-    <td>Target for this lesson?</td>
+    <th>Target for this lesson?</th>
     <td>To understand them.</td>
   </tr>
   <tr>
-    <td>Did I reach my target? 
-(add details to "Lesson Review")</td>
+    <th>Did I reach my target? 
+(add details to "Lesson Review")</th>
     <td>Yes.</td>
   </tr>
 </table>
 
 
-<table>
+<table class="table1">
   <tr>
-    <td>Lesson Review</td>
+    <th>Lesson Review</th>
   </tr>
   <tr>
-    <td>How did I learn? What strategies were effective? </td>
+    <th>How did I learn? What strategies were effective? </th>
   </tr>
   <tr>
     <td>I went onto the computer and did the code academy Functions lesson. I thought that reading the instructions thoroughly and not using the hints helped it stay in my brain.</td>
   </tr>
   <tr>
-    <td>What limited my learning? Which habits do I need to work on? </td>
+    <th>What limited my learning? Which habits do I need to work on? </th>
   </tr>
   <tr>
     <td>The instructions were sometimes unclear. I need to try and figure more things out myself quicker.</td>
   </tr>
   <tr>
-    <td>What will I change for next time? How will I improve my learning?</td>
+    <th>What will I change for next time? How will I improve my learning?</th>
   </tr>
   <tr>
     <td>I will focus on the new things rather than the old and improve my learning by reading the error codes and trying to understand why it didn't work.</td>
