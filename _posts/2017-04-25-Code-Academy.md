@@ -50,7 +50,7 @@ published: true
     
     
     
-    <img src="https://github.com/eawell/eawell.github.io/blob/master/images/Screen_Shot_2017-05-02_at_15.00.41_(1).png?raw=true">
+    <img src="https://github.com/eawell/eawell.github.io/blob/master/images/Screen-Shot-2017-05-02-at-15.00.41-(1).png?raw=true">
     </td>
   </tr>
   <tr>
