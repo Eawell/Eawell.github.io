@@ -44,6 +44,11 @@ published: true
     <td>Throughout the lesson we listened to Mr Keen about how to make tea. He showed us the basic commands and then talked about how to program a robot arm to do it. I found that concentrating on 1 thing at a time helped me learn.</td>
   </tr>
   <tr>
+  <td>
+  <img src="https://raw.githubusercontent.com/Eawell/Eawell.github.io/master/images/Screen%20Shot%202017-05-09%20at%2015.31.39.png"/>
+  </td>
+  </tr>
+  <tr>
     <th>What limited my learning? Which habits do I need to work on? </th>
   </tr>
   <tr>
