@@ -44,6 +44,11 @@ published: true
     <td>The sub topic was long but very simple so I just copied what they said to do to the point. I found that doing the solution as simply as possible was the easiest.</td>
   </tr>
   <tr>
+  <td>
+  <img src="https://raw.githubusercontent.com/Eawell/Eawell.github.io/master/images/Screen%20Shot%202017-05-02%20at%2015.33.26.png"/>
+  </td>
+  </tr>
+  <tr>
   <thWhat limited my learning? Which habits do I need to work on? </th>
   </tr>
   <tr>
