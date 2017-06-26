@@ -44,14 +44,12 @@ published: true
     <td>I learnt by following the instructions and doing what they wanted me to do. The best strategy for me was just trying what you think will work and if it doesn't work, just change what looks odd.
     
     
-    
-    
-    
-    
-    
-    
-    <img src="https://raw.githubusercontent.com/Eawell/Eawell.github.io/master/images/Screen%20Shot%202017-05-02%20at%2015.00.41%20(1).png">
-    </td>
+  </td>
+  </tr>
+  <tr>
+  <td>
+  <img src="https://raw.githubusercontent.com/Eawell/Eawell.github.io/master/images/Screen%20Shot%202017-05-02%20at%2015.00.41%20(1).png">
+  </td>
   </tr>
   <tr>
     <th>What limited my learning? Which habits do I need to work on? </th>
