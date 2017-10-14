@@ -6,7 +6,7 @@ permalink: /discount-codes/
 source-id: 1aZU49DiUkXwldF8IWqh4OwN2os6E7CaqFA06CXmDm-M
 published: true
 ---
-<table>
+<table class="table1">
   <tr>
     <td>Title</td>
     <td>Discount Codes</td>
@@ -16,7 +16,7 @@ published: true
 </table>
 
 
-<table>
+<table class="table1">
   <tr>
     <td>Starting point:</td>
     <td>A new sheet</td>
@@ -33,7 +33,7 @@ published: true
 </table>
 
 
-<table>
+<table class="table1">
   <tr>
     <td>Lesson Review</td>
   </tr>
