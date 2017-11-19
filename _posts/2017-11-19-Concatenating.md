@@ -6,51 +6,51 @@ permalink: /concatenating/
 source-id: 1WU4P1mepRybtQD8R1jDU0zZIXLUkiJzZ_cndqSnSGCM
 published: true
 ---
-<table>
+<table class="table1">
   <tr>
-    <td>Title</td>
+    <th>Title</th>
     <td>Concatenating</td>
-    <td>Date</td>
+    <th>Date</th>
     <td>19/11/17</td>
   </tr>
 </table>
 
 
-<table>
+<table class="table1">
   <tr>
-    <td>Starting point:</td>
+    <th>Starting point:</th>
     <td>Starting to code our cyphers</td>
   </tr>
   <tr>
-    <td>Target for this lesson?</td>
+    <th>Target for this lesson?</th>
     <td>To concatenation words and cypher them</td>
   </tr>
   <tr>
-    <td>Did I reach my target? 
-(add details to "Lesson Review")</td>
+    <th>Did I reach my target? 
+(add details to "Lesson Review")</th>
     <td>Yes</td>
   </tr>
 </table>
 
 
-<table>
+<table class="table1">
   <tr>
-    <td>Lesson Review</td>
+    <th>Lesson Review</th>
   </tr>
   <tr>
-    <td>How did I learn? What strategies were effective? </td>
+    <th>How did I learn? What strategies were effective? </th>
   </tr>
   <tr>
     <td>Mr Keen began by going through what we did last lesson and telling us what the finished product will be. Then he told us how to measure the length of a box, concatenate words from multiple boxes and then put each letter into boxes. I went very fast and so had to wait before finishing learning how to do it. I found that trying different things and experimenting helped the most.</td>
   </tr>
   <tr>
-    <td>What limited my learning? Which habits do I need to work on? </td>
+    <th>What limited my learning? Which habits do I need to work on? </th>
   </tr>
   <tr>
     <td>The thing that limited my learning the most was that I finished the first task very fast so I wasn't doing anything for a while. I don’t think that I need to work on any habits.</td>
   </tr>
   <tr>
-    <td>What will I change for next time? How will I improve my learning?</td>
+    <th>What will I change for next time? How will I improve my learning?</th>
   </tr>
   <tr>
     <td>I will work on his comments on how to figure things out and concatenating. I will improve my learning by asking more questions and asking for extension work if I finish.</td>
