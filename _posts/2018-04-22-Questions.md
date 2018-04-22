@@ -18,7 +18,7 @@ published: true
 
 <table class="table1">
   <tr>
-    <td>Starting point:</th>
+    <th>Starting point:</th>
     <td>Repl python</td>
   </tr>
   <tr>
