@@ -6,8 +6,6 @@ permalink: /Questions/
 source-id: 1tn13Y3zf8tDHl4jvnjSfiiXw2gK_EBxqSVOCDZdnFmg
 published: true
 ---
--
-
 <table>
   <tr>
     <td>Title</td>
